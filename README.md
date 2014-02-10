@@ -34,6 +34,7 @@ If logged in:
 
 ### Future state ideas
 
++ choose from commonly added apps
 + add another admin to a Cacheboard
 + a user can fork a Cacheboard and customize it
 + dynamic ordering of links
